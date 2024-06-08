@@ -1,0 +1,12 @@
+
+
+<resources>
+<string name="app_name">EmployeeExpenseApp</string>
+<string-array name="employees_array">
+    <item>Umme Abiha</item>
+    <item>Kartik</item>
+    <item>Ashwini</item>
+    <item>Yadnyaseni</item>
+    <item>Aditya</item>
+</string-array>
+</resources>
